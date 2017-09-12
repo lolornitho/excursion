@@ -1,0 +1,43 @@
+body {
+  background-color: black;
+  font-family: Verdana;
+  text-align: center;
+}
+
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  font-family: Verdana;
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+
+h3 {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+}
+
+h4 {
+  font-family: Verdana;
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+
+#lien {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+#copyright {
+  text-align: right !important;
+  color: Gray;
+}
